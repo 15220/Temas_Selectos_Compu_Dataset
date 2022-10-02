@@ -1,6 +1,6 @@
 # Temas_Selectos_Compu_Dataset
 
-Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico
+Dataset for estimation of obesity based on eating habits and physical condition in individuals from Colombia, Peru and Mexico
 
 **Definición de las variables:**
 
